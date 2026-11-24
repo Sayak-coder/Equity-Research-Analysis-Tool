@@ -33,7 +33,14 @@ experiments and a UI screenshot. Treat this as an evolving
 project/prototype; the exact production deployment entry point and
 complete application wiring are not yet documented in the repository.
 
+
+
+
+
 <img width="1200" height="600" alt="ChatGPT Image Nov 25, 2026 at 12_22_23 AM" src="https://github.com/user-attachments/assets/5fcac4a5-e7c1-4fdd-bdb3-f4ad4cfb04d2" />
+
+
+
 
 
 How it works
