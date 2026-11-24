@@ -1,0 +1,7 @@
+langchain = 1.4.8
+langchain_classic = 1.4.8
+langchain-community>=0.3,<0.4
+unstructured
+faiss-cpu
+streamlit = 1.0.0
+langchain_groq = 1.4.8
